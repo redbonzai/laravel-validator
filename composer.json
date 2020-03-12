@@ -1,5 +1,6 @@
 {
     "name": "prettus/laravel-validation",
+    "version": "1.2.2",
     "description": "Laravel Validation Service",
     "keywords": ["laravel", "validation", "service"],
     "authors": [
@@ -12,16 +13,15 @@
     ],
     "homepage": "http://andersao.github.io/laravel-validation",
     "support": {
-        "email": "contato@andersonandra.de",
-        "issues":"https://github.com/andersao/laravel-validation/issues",
-        "wiki":"https://github.com/andersao/laravel-validation",
-        "source":"https://github.com/andersao/laravel-validation",
-        "docs": "http://andersao.github.io/laravel-validation"
+        "email": "christian@redbonzai.com",
+        "issues":"https://github.com/redbonzai/laravel-validation/issues",
+        "wiki":"https://github.com/redbonzai/laravel-validation",
+        "source":"https://github.com/redbonzai/laravel-validation"
     },
     "require": {
-        "php": ">=5.4.0",
-        "illuminate/support": "~5.4|^6.0|^7.0",
-        "illuminate/validation": "~5.4|^6.0|^7.0"
+        "php": ">=7.2.5",
+        "illuminate/support": "^7.0",
+        "illuminate/validation": "^7.0"
     },
     "autoload": {
         "psr-4": {
